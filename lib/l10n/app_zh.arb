@@ -1,0 +1,358 @@
+{
+    "@@locale": "zh",
+    "@wcbackfs": {
+        "description": "Greeting message for returning users",
+        "type": "text"
+    },
+    "wcbackfs": "欢迎回来，",
+    "@wcbackss": {
+        "description": "Message indicating the user is missed",
+        "type": "text"
+    },
+    "wcbackss": "我们太想你!",
+    "@username": {
+        "description": "Label for the username field",
+        "type": "text"
+    },
+    "username": "用户名",
+    "@password": {
+        "description": "Label for the password field",
+        "type": "text"
+    },
+    "password": "密码",
+    "@login": {
+        "description": "Label for the login button",
+        "type": "text"
+    },
+    "login": "登录",
+    "@fpass": {
+        "description": "Text for forget password link",
+        "type": "text"
+    },
+    "fpass": "忘记密码？",
+    "@newto": {
+        "description": "Message for new users to sign up",
+        "type": "text"
+    },
+    "newto": "没有SyncIO帐户，登记",
+    "@lwgg": {
+        "description": "Login with Google text",
+        "type": "text"
+    },
+    "lwgg": "通过 Google 继续",
+    "@nxt": {
+        "description": "Next",
+        "type": "text"
+    },
+    "nxt": "继续",
+    "@wyn": {
+        "description": "What's your name?",
+        "type": "text"
+    },
+    "wyn": "你的贵姓是什么?",
+    "@wynd": {
+        "description": "Enter the name you use in real life.",
+        "type": "text"
+    },
+    "wynd": "在生活中使用你真的贵姓",
+    "@ln": {
+        "description": "Last name",
+        "type": "text"
+    },
+    "ln": "名",
+    "@fn": {
+        "description": "First name",
+        "type": "text"
+    },
+    "fn": "姓",
+    "@iaha": {
+        "description": "I already have an account",
+        "type": "text"
+    },
+    "iaha": "已经有账户",
+    "@or": {
+        "description": "Or",
+        "type": "text"
+    },
+    "or": "或者",
+    "@wybd": {
+        "description": "What's your birthday?",
+        "type": "text"
+    },
+    "wybd": "你的生日?",
+    "@wybdd": {
+        "description": "Choose the date of birth. You can always make this private later.",
+        "type": "text"
+    },
+    "wybdd": "选择你的生日. 您稍后可以随时将其设为私有.",
+    "@bd": {
+        "description": "Birthday",
+        "type": "text"
+    },
+    "bd": "生日",
+    "@selectDate": {
+        "description": "Select Date",
+        "type": "text"
+    },
+    "selectDate": "选择日天",
+    "@gd": {
+        "description": "Gender",
+        "type": "text"
+    },
+    "gd": "性别",
+    "@gdd": {
+        "description": "You can change who sees your gender on your profile later.",
+        "type": "text"
+    },
+    "gdd": "您可以稍后更改谁在您的个人资料中看到您的性别.",
+    "@male": {
+        "description": "Male",
+        "type": "text"
+    },
+    "male": "男",
+    "@female": {
+        "description": "Female",
+        "type": "text"
+    },
+    "female": "女",
+    "@other": {
+        "description": "Other",
+        "type": "text"
+    },
+    "other": "其他",
+    "@em": {
+        "description": "Email",
+        "type": "text"
+    },
+    "em": "邮件",
+    "@emd": {
+        "description": "Enter the email where you can be contacted. No one will see this on your profile.",
+        "type": "text"
+    },
+    "emd": "输入可以联系您的电子邮件。没有人会在您的个人资料上看到这一点.",
+    "@pee": {
+        "description": "Please enter email",
+        "type": "text"
+    },
+    "pee": "请输入邮件",
+    "@pefn": {
+        "description": "Please enter first name",
+        "type": "text"
+    },
+    "pefn": "请输入您的名",
+    "@peln": {
+        "description": "Please enter last name",
+        "type": "text"
+    },
+    "peln": "请输入您的贵姓",
+    "@pcgd": {
+        "description": "Please choose gender",
+        "type": "text"
+    },
+    "pcgd": "请选择性别",
+    "@pepw": {
+        "description": "Please enter password",
+        "type": "text"
+    },
+    "pepw": "请输入密码",
+    "@pwnv": {
+        "description": "Password is must be at least 8 letter l",
+        "type": "text"
+    },
+    "pwnv": "密码长度必须至少为 8 个字母，并且至少为数字和特殊字符",
+    "@eaiu": {
+        "description": "邮件已被使用",
+        "type": "text"
+    },
+    "eaiu": "邮件已被使用",
+    "@eicf": {
+        "description": "Email format is not correct",
+        "type": "text"
+    },
+    "eicf": "邮件格式不正确",
+    "@pw": {
+        "description": "Password",
+        "type": "text"
+    },
+    "pw": "密码",
+    "@pwd": {
+        "description": "Password description",
+        "type": "text"
+    },
+    "pwd": "创建一个至少包含八个字母、一个数字和一个特殊字符的密码。这应该是别人猜不到的",
+    "@urnd": {
+        "description": "Username description",
+        "type": "text"
+    },
+    "urnd": "用户名存储在我们的系统中以区分用户.",
+    "@peusn": {
+        "description": "Please enter username",
+        "type": "text"
+    },
+    "peusn": "请输入用户名",
+    "@peusnapw": {
+        "description": "Please enter username and password",
+        "type": "text"
+    },
+    "peusnapw": "请输入用户名和密码",
+    "@lge00": {
+        "description": "Login failed",
+        "type": "text"
+    },
+    "lge00": "登入失败",
+    "@lge01": {
+        "description": "用户名不能为空",
+        "type": "text"
+    },
+    "lge01": "用户名不能为空",
+    "@lge02": {
+        "description": "密码不能为空",
+        "type": "text"
+    },
+    "lge02": "密码不能为空",
+    "@lge03": {
+        "description": "用户名不正确",
+        "type": "text"
+    },
+    "lge03": "用户名不正确",
+    "@lge04": {
+        "description": "账户已被删除",
+        "type": "text"
+    },
+    "lge04": "账户已被删除",
+    "@lge05": {
+        "description": "账户被管理员限制",
+        "type": "text"
+    },
+    "lge05": "账户被管理员限制",
+    "@lge06": {
+        "description": "账户被管理员禁止",
+        "type": "text"
+    },
+    "lge06": "账户被管理员禁止",
+    "@lge07": {
+        "description": "密码不正确",
+        "type": "text"
+    },
+    "lge07": "密码不正确",
+    "@re01": {
+        "description": "缺少必填字段",
+        "type": "text"
+    },
+    "re01": "缺少必填字段",
+    "@mysqldbe01": {
+        "description": "开始事务时出错",
+        "type": "text"
+    },
+    "mysqldbe01": "开始事务时出错",
+    "@re02": {
+        "description": "用户名已存在",
+        "type": "text"
+    },
+    "re02": "用户名已存在",
+    "@re03": {
+        "description": "电子邮件已存在",
+        "type": "text"
+    },
+    "re03": "电子邮件已存在",
+    "@se01": {
+        "description": "密码哈希错误",
+        "type": "text"
+    },
+    "se01": "密码哈希错误",
+    "@re04": {
+        "description": "创建账户时出错",
+        "type": "text"
+    },
+    "re04": "创建账户时出错",
+    "@re05": {
+        "description": "创建账户头像时出错",
+        "type": "text"
+    },
+    "re05": "创建账户头像时出错",
+    "@re06": {
+        "description": "创建账户信息时出错",
+        "type": "text"
+    },
+    "re06": "创建账户信息时出错",
+    "@mysqldbe02": {
+        "description": "提交事务时出错",
+        "type": "text"
+    },
+    "mysqldbe02": "提交事务时出错",
+    "@pebd": {
+        "description": "Please enter birthday",
+        "type": "text"
+    },
+    "pebd": "请输入你的生日",
+    "formatDate": "{year}年{month}月{day}日",
+    "@formatDate": {
+        "description": "Format date",
+        "type": "text",
+        "placeholders": {
+            "day": {
+                "type": "String",
+                "description": "Day of the month"
+            },
+            "month": {
+                "type": "String",
+                "description": "Month name"
+            },
+            "year": {
+                "type": "String",
+                "description": "Full year"
+            }
+        }
+    },
+    "@uma16yo": {
+        "description": "user must be more than 16 years old",
+        "type": "text"
+    },
+    "uma16yo": "用户必要年满16岁",
+    "@usnaiu": {
+        "description": "username is already in use",
+        "type": "text"
+    },
+    "usnaiu": "用户名已被使用",
+    "@avt": {
+        "description": "Avatar",
+        "type": "text"
+    },
+    "avt": "头像",
+    "@avtd": {
+        "description": "Avatar description",
+        "type": "text"
+    },
+    "avtd": "代表用户身份的个人资料图片。它可以是照片或插图，通常用于跨平台的个性化",
+    "@simg": {
+        "description": "Select image",
+        "type": "text"
+    },
+    "simg": "选择图像",
+    "@nimgs": {
+        "description": "No image selected",
+        "type": "text"
+    },
+    "nimgs": "未选择图像",
+    "@re": {
+        "description": "Register failed",
+        "type": "text"
+    },
+    "re": "登记失败",
+    "@aue": {
+        "description": "Error when uploading image",
+        "type": "text"
+    },
+    "aue": "上传图片时出错",
+    "@rs": {
+        "description": "Register successfully",
+        "type": "text"
+    },
+    "rs": "登记成功",
+    "@snt": {
+        "description": "Share new thoughts",
+        "type": "text"
+    },
+    "snt": "分享新鲜事"
+    
+}

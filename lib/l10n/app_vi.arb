@@ -1,0 +1,372 @@
+{
+    "@@locale": "vi",
+    "@wcbackfs": {
+        "description": "Greeting message for returning users",
+        "type": "text"
+    },
+    "wcbackfs": "Chào mừng trở lại, ",
+    "@wcbackss": {
+        "description": "Message indicating the user is missed",
+        "type": "text"
+    },
+    "wcbackss": "bạn đã bỏ lỡ!",
+    "@username": {
+        "description": "Label for the username field",
+        "type": "text"
+    },
+    "username": "tên tài khoản",
+    "@password": {
+        "description": "Label for the password field",
+        "type": "text"
+    },
+    "password": "mật khẩu",
+    "@login": {
+        "description": "Label for the login button",
+        "type": "text"
+    },
+    "login": "đăng nhập",
+    "@fpass": {
+        "description": "Text for forget password link",
+        "type": "text"
+    },
+    "fpass": "quên mật khẩu?",
+    "@newto": {
+        "description": "Message for new users to sign up",
+        "type": "text"
+    },
+    "newto": "Chưa có tài khoản SyncIO, Đăng ký",
+    "@lwgg": {
+        "description": "Login with Google text",
+        "type": "text"
+    },
+    "lwgg": "Đăng nhập bằng Google",
+    "@nxt": {
+        "description": "Next",
+        "type": "text"
+    },
+    "nxt": "Tiếp tục",
+    "@wyn": {
+        "description": "What's your name?",
+        "type": "text"
+    },
+    "wyn": "Tên của bạn là gì?",
+    "@wynd": {
+        "description": "Enter the name you use in real life.",
+        "type": "text"
+    },
+    "wynd": "Sử dụng tên thật của bạn.",
+    "@ln": {
+        "description": "Last name",
+        "type": "text"
+    },
+    "ln": "Tên",
+    "@fn": {
+        "description": "First name",
+        "type": "text"
+    },
+    "fn": "Họ",
+    "@iaha": {
+        "description": "I already have an account",
+        "type": "text"
+    },
+    "iaha": "Đã có tài khoản",
+    "@or": {
+        "description": "Or",
+        "type": "text"
+    },
+    "or": "Hoặc",
+    "@wybd": {
+        "description": "What's your birthday?",
+        "type": "text"
+    },
+    "wybd": "Sinh nhật của bạn là gì?",
+    "@wybdd": {
+        "description": "Choose the date of birth. You can always make this private later.",
+        "type": "text"
+    },
+    "wybdd": "Chọn ngày sinh. Bạn có thể đặt ngày sinh về chế độ riêng tư bất cứ lúc nào.",
+    "@bd": {
+        "description": "Birthday",
+        "type": "text"
+    },
+    "bd": "Sinh nhật",
+    "@selectDate": {
+        "description": "Select Date",
+        "type": "text"
+    },
+    "selectDate": "Chọn ngày",
+    "@gd": {
+        "description": "Gender",
+        "type": "text"
+    },
+    "gd": "Giới tính",
+    "@gdd": {
+        "description": "You can change who sees your gender on your profile later.",
+        "type": "text"
+    },
+    "gdd": "Bạn có thể thay đổi ai có thể thấy thông tin này bất cứ lúc nào.",
+    "@male": {
+        "description": "Male",
+        "type": "text"
+    },
+    "male": "Nam",
+    "@female": {
+        "description": "Female",
+        "type": "text"
+    },
+    "female": "Nữ",
+    "@other": {
+        "description": "Other",
+        "type": "text"
+    },
+    "other": "Khác",
+    "@em": {
+        "description": "Email",
+        "type": "text"
+    },
+    "em": "Email",
+    "@emd": {
+        "description": "Enter the email where you can be contacted. No one will see this on your profile.",
+        "type": "text"
+    },
+    "emd":"Nhập Email của bạn mà chúng tôi có thể liên lạc. Thông tin này được ẩn trên profile của bạn.",
+    "@pee": {
+        "description": "Please enter email",
+        "type": "text"
+    },
+    "pee":"Hãy nhập Email",
+    "@pefn": {
+        "description": "Please enter first name",
+        "type": "text"
+    },
+    "pefn":"Hãy nhập họ",
+    "@peln": {
+        "description": "Please enter last name",
+        "type": "text"
+    },
+    "peln":"Hãy nhập tên",
+    "@pcgd": {
+        "description": "Please choose gender",
+        "type": "text"
+    },
+    "pcgd":"Hãy chọn giới tính",
+    "@pepw": {
+        "description": "Please enter password",
+        "type": "text"
+    },
+    "pepw":"Hãy nhập mật khẩu",
+    "@pwnv": {
+        "description": "Password is must be at least 8 letter l",
+        "type": "text"
+    },
+    "pwnv":"Mật khẩu phải có ít nhất 8 ký tự, ít nhất một chữ số và một ký tự đặc biệt",
+    "@eaiu": {
+        "description": "Email is alreay in use",
+        "type": "text"
+    },
+    "eaiu":"Email đã được sử dụng",
+    "@eicf": {
+        "description": "Email format is not correct",
+        "type": "text"
+    },
+    "eicf":"Định dạng Email không đúng",
+    "@pw": {
+        "description": "Password",
+        "type": "text"
+    },
+    "pw":"Mật khẩu",
+    "@pwd": {
+        "description": "Password description",
+        "type": "text"
+    },
+    "pwd":"Tạo mật khẩu có ít nhất tám kí tự, bao gồm ít nhất một chữ số và một ký tự đặc biệt. Mật khẩu được tạo nên khó đoán với tất cả mọi người.",
+    "@urnd": {
+        "description": "Username description",
+        "type": "text"
+    },
+    "urnd":"Tên tài khoản được lưu trong hệ thống để phân biệt giữa các người dùng.",
+    "@peusn": {
+        "description": "Please enter username",
+        "type": "text"
+    },
+    "peusn":"Hãy nhập tên tài khoản",
+    "@peusnapw": {
+        "description": "Please enter username and password",
+        "type": "text"
+    },
+    "peusnapw":"Hãy nhập tên tài khoản và mật khẩu",
+    "@lge00": {
+        "description": "Login failed",
+        "type": "text"
+    },
+    "lge00": "Đăng nhập thất bại",
+    "@lge01": {
+        "description": "tên người dùng không được để trống",
+        "type": "text"
+    },
+    "lge01": "tên người dùng không được để trống",
+
+    "@lge02": {
+        "description": "mật khẩu không được để trống",
+        "type": "text"
+    },
+    "lge02": "mật khẩu không được để trống",
+
+    "@lge03": {
+        "description": "tên người dùng không đúng",
+        "type": "text"
+    },
+    "lge03": "tên người dùng không đúng",
+
+    "@lge04": {
+        "description": "tài khoản đã bị xóa",
+        "type": "text"
+    },
+    "lge04": "tài khoản đã bị xóa",
+
+    "@lge05": {
+        "description": "tài khoản bị hạn chế bởi quản trị viên",
+        "type": "text"
+    },
+    "lge05": "tài khoản bị hạn chế bởi quản trị viên",
+
+    "@lge06": {
+        "description": "tài khoản bị cấm bởi quản trị viên",
+        "type": "text"
+    },
+    "lge06": "tài khoản bị cấm bởi quản trị viên",
+
+    "@lge07": {
+        "description": "mật khẩu không đúng",
+        "type": "text"
+    },
+    "lge07": "mật khẩu không đúng",
+
+    "@re01": {
+        "description": "thiếu các trường bắt buộc",
+        "type": "text"
+    },
+    "re01": "thiếu các trường bắt buộc",
+
+    "@mysqldbe01": {
+        "description": "lỗi khi bắt đầu transaction",
+        "type": "text"
+    },
+    "mysqldbe01": "lỗi khi bắt đầu transaction",
+
+    "@re02": {
+        "description": "tên người dùng đã tồn tại",
+        "type": "text"
+    },
+    "re02": "tên người dùng đã tồn tại",
+
+    "@re03": {
+        "description": "email đã tồn tại",
+        "type": "text"
+    },
+    "re03": "email đã tồn tại",
+
+    "@se01": {
+        "description": "lỗi mã hóa mật khẩu",
+        "type": "text"
+    },
+    "se01": "lỗi mã hóa mật khẩu",
+
+    "@re04": {
+        "description": "lỗi tạo tài khoản",
+        "type": "text"
+    },
+    "re04": "lỗi tạo tài khoản",
+
+    "@re05": {
+        "description": "lỗi tạo avatar tài khoản",
+        "type": "text"
+    },
+    "re05": "lỗi tạo avatar tài khoản",
+
+    "@re06": {
+        "description": "lỗi tạo thông tin tài khoản",
+        "type": "text"
+    },
+    "re06": "lỗi tạo thông tin tài khoản",
+
+    "@mysqldbe02": {
+        "description": "lỗi commit transaction",
+        "type": "text"
+    },
+    "mysqldbe02": "lỗi commit transaction",
+    "@pebd": {
+        "description": "Please enter birthday",
+        "type": "text"
+    },
+    "pebd": "Hãy chọn sinh nhật của bạn",
+    "formatDate": "Ngày {day} tháng {month} năm {year}",
+    "@formatDate": {
+        "description": "Format date",
+        "type": "text",
+        "placeholders": {
+            "day": {
+                "type": "String",
+                "description": "Day of the month"
+            },
+            "month": {
+                "type": "String",
+                "description": "Month name"
+            },
+            "year": {
+                "type": "String",
+                "description": "Full year"
+            }
+        }
+    },
+    "@uma16yo": {
+        "description": "user must be more than 16 years old",
+        "type": "text"
+    },
+    "uma16yo": "Nguời dùng phải trên 16 tuổi",
+    "@usnaiu": {
+        "description": "username is already in use",
+        "type": "text"
+    },
+    "usnaiu": "Tên người dùng đã được sử dụng",
+    "@avt": {
+        "description": "Avatar",
+        "type": "text"
+    },
+    "avt": "Ảnh đại diện",
+    "@avtd": {
+        "description": "Avatar description",
+        "type": "text"
+    },
+    "avtd": "Ảnh đại diện cá nhân của bạn thể hiện đặc điểm nhận dạng. Nó có thể là một bức ảnh hoặc một hình minh họa và thường được sử dụng để cá nhân hóa trên các nền tảng.",
+    "@simg": {
+        "description": "Select image",
+        "type": "text"
+    },
+    "simg": "Chọn ảnh",
+    "@nimgs": {
+        "description": "No image selected",
+        "type": "text"
+    },
+    "nimgs": "Không có ảnh nào được chọn",
+    "@re": {
+        "description": "Register failed",
+        "type": "text"
+    },
+    "re": "Đăng ký thất bại",
+    "@aue": {
+        "description": "Error when uploading image",
+        "type": "text"
+    },
+    "aue": "Có lỗi xảy ra khi tạo ảnh",
+    "@rs": {
+        "description": "Register successfully",
+        "type": "text"
+    },
+    "rs": "Đăng ký thành công",
+    "@snt": {
+        "description": "Share new thoughts",
+        "type": "text"
+    },
+    "snt": "Bạn đang nghĩ gì?"
+}

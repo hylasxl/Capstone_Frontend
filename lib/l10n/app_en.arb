@@ -1,0 +1,358 @@
+{
+    "@@locale": "en",
+    "@wcbackfs": {
+        "description": "Greeting message for returning users",
+        "type": "text"
+    },
+    "wcbackfs": "Welcome back, ",
+    "@wcbackss": {
+        "description": "Message indicating the user is missed",
+        "type": "text"
+    },
+    "wcbackss": "you've been missed!",
+    "@username": {
+        "description": "Label for the username field",
+        "type": "text"
+    },
+    "username": "username",
+    "@password": {
+        "description": "Label for the password field",
+        "type": "text"
+    },
+    "password": "password",
+    "@login": {
+        "description": "Label for the login button",
+        "type": "text"
+    },
+    "login": "login",
+    "@fpass": {
+        "description": "Text for forget password link",
+        "type": "text"
+    },
+    "fpass": "forget password?",
+    "@newto": {
+        "description": "Message for new users to sign up",
+        "type": "text"
+    },
+    "newto": "New to SyncIO, Sign Up",
+    "@lwgg": {
+        "description": "Login with Google text",
+        "type": "text"
+    },
+    "lwgg": "Login with Google",
+    "@nxt": {
+        "description": "Next",
+        "type": "text"
+    },
+    "nxt": "Continue",
+    "@wyn": {
+        "description": "What's your name?",
+        "type": "text"
+    },
+    "wyn": "What's your name?",
+    "@wynd": {
+        "description": "Enter the name you use in real life.",
+        "type": "text"
+    },
+    "wynd": "Enter the name you use in real life.",
+    "@ln": {
+        "description": "Last name",
+        "type": "text"
+    },
+    "ln": "Last name",
+    "@fn": {
+        "description": "First name",
+        "type": "text"
+    },
+    "fn": "First name",
+    "@iaha": {
+        "description": "I already have an account",
+        "type": "text"
+    },
+    "iaha": "I already have an account",
+    "@or": {
+        "description": "Or",
+        "type": "text"
+    },
+    "or": "Or",
+    "@wybd": {
+        "description": "What's your birthday?",
+        "type": "text"
+    },
+    "wybd": "What's your birthday?",
+    "@wybdd": {
+        "description": "Choose the date of birth. You can always make this private later.",
+        "type": "text"
+    },
+    "wybdd": "Choose the date of birth. You can always make this private later.",
+    "@bd": {
+        "description": "Birthday",
+        "type": "text"
+    },
+    "bd": "Birthday",
+    "@selectDate": {
+        "description": "Select Date",
+        "type": "text"
+    },
+    "selectDate": "Select Date",
+    "@gd": {
+        "description": "Gender",
+        "type": "text"
+    },
+    "gd": "Gender",
+    "@gdd": {
+        "description": "You can change who sees your gender on your profile later.",
+        "type": "text"
+    },
+    "gdd": "You can change who sees your gender on your profile later.",
+    "@male": {
+        "description": "Male",
+        "type": "text"
+    },
+    "male": "Male",
+    "@female": {
+        "description": "Female",
+        "type": "text"
+    },
+    "female": "Female",
+    "@other": {
+        "description": "Other",
+        "type": "text"
+    },
+    "other": "Other",
+    "@em": {
+        "description": "Email",
+        "type": "text"
+    },
+    "em": "Email",
+    "@emd": {
+        "description": "Enter the email where you can be contacted. No one will see this on your profile.",
+        "type": "text"
+    },
+    "emd": "Enter the email where you can be contacted. No one will see this on your profile.",
+    "@pee": {
+        "description": "Please enter email",
+        "type": "text"
+    },
+    "pee": "Please enter email",
+    "@pefn": {
+        "description": "Please enter first name",
+        "type": "text"
+    },
+    "pefn": "Please enter first name",
+    "@peln": {
+        "description": "Please enter last name",
+        "type": "text"
+    },
+    "peln": "Please enter last name",
+    "@pcgd": {
+        "description": "Please choose gender",
+        "type": "text"
+    },
+    "pcgd": "Please choose gender",
+    "@pepw": {
+        "description": "Please enter password",
+        "type": "text"
+    },
+    "pepw": "Please enter password",
+    "@pebd": {
+        "description": "Please enter birthday",
+        "type": "text"
+    },
+    "pebd": "Please enter birthday",
+    "@pwnv": {
+        "description": "Password is must be at least 8 letter l",
+        "type": "text"
+    },
+    "pwnv": "Password is must be at least 8-letter in length, and at least a number and a special character",
+    "@eaiu": {
+        "description": "Email is alreay in use",
+        "type": "text"
+    },
+    "eaiu": "Email is already in use",
+    "@eicf": {
+        "description": "Email format is not correct",
+        "type": "text"
+    },
+    "eicf": "Email format is not correct",
+    "@pw": {
+        "description": "Password",
+        "type": "text"
+    },
+    "pw": "Password",
+    "@pwd": {
+        "description": "Password description",
+        "type": "text"
+    },
+    "pwd": "Create a password with at least eight letters, one number and one special character. It should be something others can’t guess.",
+    "@urnd": {
+        "description": "Username description",
+        "type": "text"
+    },
+    "urnd": "The username is stored in our system to differentiate users.",
+    "@peusn": {
+        "description": "Please enter username",
+        "type": "text"
+    },
+    "peusn": "Please enter username",
+    "@peusnapw": {
+        "description": "Please enter username and password",
+        "type": "text"
+    },
+    "peusnapw": "Please enter username and password",
+    "@lge00": {
+        "description": "Login failed",
+        "type": "text"
+    },
+    "lge00": "Login failed",
+    "@lge01": {
+        "description": "username cannot be empty",
+        "type": "text"
+    },
+    "lge01": "username cannot be empty",
+    "@lge02": {
+        "description": "password cannot be empty",
+        "type": "text"
+    },
+    "lge02": "password cannot be empty",
+    "@lge03": {
+        "description": "the username is not correct",
+        "type": "text"
+    },
+    "lge03": "the username is not correct",
+    "@lge04": {
+        "description": "the account is deleted",
+        "type": "text"
+    },
+    "lge04": "the account is deleted",
+    "@lge05": {
+        "description": "the account is restricted by admin",
+        "type": "text"
+    },
+    "lge05": "the account is restricted by admin",
+    "@lge06": {
+        "description": "the account is banned by admin",
+        "type": "text"
+    },
+    "lge06": "the account is banned by admin",
+    "@lge07": {
+        "description": "the password is not correct",
+        "type": "text"
+    },
+    "lge07": "the password is not correct",
+    "@re01": {
+        "description": "missing required fields",
+        "type": "text"
+    },
+    "re01": "missing required fields",
+    "@mysqldbe01": {
+        "description": "error starting transaction",
+        "type": "text"
+    },
+    "mysqldbe01": "error starting transaction",
+    "@re02": {
+        "description": "username already exists",
+        "type": "text"
+    },
+    "re02": "username already exists",
+    "@re03": {
+        "description": "email already exists",
+        "type": "text"
+    },
+    "re03": "email already exists",
+    "@se01": {
+        "description": "error hashing password",
+        "type": "text"
+    },
+    "se01": "error hashing password",
+    "@re04": {
+        "description": "error creating account",
+        "type": "text"
+    },
+    "re04": "error creating account",
+    "@re05": {
+        "description": "error creating account avatar",
+        "type": "text"
+    },
+    "re05": "error creating account avatar",
+    "@re06": {
+        "description": "error creating account info",
+        "type": "text"
+    },
+    "re06": "error creating account info",
+    "@mysqldbe02": {
+        "description": "error committing transaction",
+        "type": "text"
+    },
+    "mysqldbe02": "error committing transaction",
+    "formatDate": "{day} {month}, {year}",
+    "@formatDate": {
+        "description": "Format date",
+        "type": "text",
+        "placeholders": {
+            "day": {
+                "type": "String",
+                "description": "Day of the month"
+            },
+            "month": {
+                "type": "String",
+                "description": "Month name"
+            },
+            "year": {
+                "type": "String",
+                "description": "Full year"
+            }
+        }
+    },
+    "@uma16yo": {
+        "description": "user must be more than 16 years old",
+        "type": "text"
+    },
+    "uma16yo": "User must be more than 16 years old",
+    "@usnaiu": {
+        "description": "username is already in use",
+        "type": "text"
+    },
+    "usnaiu": "Username is already in use",
+    "@avt": {
+        "description": "Avatar",
+        "type": "text"
+    },
+    "avt": "Avatar",
+    "@avtd": {
+        "description": "Avatar description",
+        "type": "text"
+    },
+    "avtd": "A profile picture representing the user's identity. It can be a photo or an illustration, and is typically used for personalization across platforms.",
+    "@simg": {
+        "description": "Select image",
+        "type": "text"
+    },
+    "simg": "Select image",
+    "@nimgs": {
+        "description": "No image selected",
+        "type": "text"
+    },
+    "nimgs": "No image selected",
+    "@re": {
+        "description": "Register failed",
+        "type": "text"
+    },
+    "re": "Register failed",
+    "@aue": {
+        "description": "Error when uploading image",
+        "type": "text"
+    },
+    "aue": "Error when uploading image",
+    "@rs": {
+        "description": "Register successfully",
+        "type": "text"
+    },
+    "rs": "Register successfully",
+    "@snt": {
+        "description": "Share new thoughts",
+        "type": "text"
+    },
+    "snt": "What are you thinking?"
+    
+}
